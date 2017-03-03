@@ -1,7 +1,8 @@
-# Angular Google Analytics Example
-This project implements pure Google Analytics into an Angular 2 project. In addition, there is an example for sending an event via Google Analytics.
+# Angular Google Analytics
+This project implements pure Google Analytics into an Angular 2 project. In addition, there is an project for sending an event via Google Analytics.
 
-
+## Screenshot:
+![Alt text](screenshot.png?raw=true "Angular2 Analytics")
 
 ## Installation:
 1. `npm install` 
